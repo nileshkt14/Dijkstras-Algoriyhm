@@ -1,2 +1,2 @@
-# Dijkstras-Algoriyhm
-To implement Dijkstras algorithm to compute  the shortest path through a graph
+# Dijkstras-Algorithm
+To implement Dijkstra's Algorithm to compute the shortest path through a graph.
